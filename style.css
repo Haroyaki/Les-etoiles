@@ -1,0 +1,45 @@
+p{	/* Texte */
+	color:orange;
+	margin-left:200px;
+	margin-right:200px;
+	font-weight:500;
+	font-size:20px;
+}
+li{
+	color:orange;
+	margin-left:200px;
+	margin-right:200px;
+	font-weight:500;
+	font-size:20px;	
+}
+body { /* Image en fond*/
+	color:black;
+	background-color:white;
+	/*background-image:url("https://www.lebigdata.fr/wp-content/uploads/2020/08/ia-galaxie-subaru.jpg");*/
+	background-image:url("https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/0/d/3/0d32123a56_50034121_galaxie-andromede-03.jpg");
+}
+h1{ /*Grand Titre*/
+	font-weight:1000;
+	text-decoration: underline;
+	font-size: 60px;
+	color:aqua;
+}
+h2{  /*Titre partie*/
+	color:aqua;
+	margin-left:200px;
+	margin-right:200px;
+	font-size:30px;
+	text-decoration: underline;
+	font-weight:1000;
+}
+h3{	/*Titre sous-partie*/
+	color:aqua;
+	margin-left:200px;
+	margin-right:200px;
+	font-size:20px;
+	text-decoration: underline;
+	font-weight:750;
+}
+a{		/*Couleur des lien*/
+	color:yellow;
+}
